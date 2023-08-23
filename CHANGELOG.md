@@ -1,5 +1,12 @@
 
 
+## [1.18.0-4](https://github.com/danielc92/eslint-config-dc/compare/1.18.0-3...1.18.0-4) (2023-08-23)
+
+
+### Maintenance
+
+* remove git push ([06055b2](https://github.com/danielc92/eslint-config-dc/commit/06055b28dad7ff7f36260599901432513b2778b0))
+
 ## 1.18.0-3 (2023-06-29)
 
 
