@@ -1,5 +1,12 @@
 
 
+## [2.2.0](https://github.com/danielc92/eslint-config-dc/compare/2.1.0...2.2.0) (2023-10-04)
+
+
+### Features
+
+* increased entropy setting ([bb6eee1](https://github.com/danielc92/eslint-config-dc/commit/bb6eee1818984522c18f510e3c595ce480a40c4e))
+
 ## [2.1.0](https://github.com/danielc92/eslint-config-dc/compare/2.0.0...2.1.0) (2023-10-04)
 
 
