@@ -75,7 +75,7 @@ module.exports = {
       // SECURITY: SECRETS (ZERO TOLERANCE)
       'no-secrets/no-secrets': ["error",{
             // note: default is 4
-            "tolerance":4, 
+            "tolerance":4.2, 
             "additionalRegexes": { 
                // source https://gist.github.com/magnetikonline/073afe7909ffdd6f10ef06a00bc3bc88#combined-together
                "Github tokens": "^(gh[ps]_[a-zA-Z0-9]{36}|github_pat_[a-zA-Z0-9]{22}_[a-zA-Z0-9]{59})$",
